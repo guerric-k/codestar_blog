@@ -27,6 +27,7 @@ DEBUG = False
 
 ALLOWED_HOSTS = [
     '.herokuapp.com',
+    '.mi-django-codestar-blog-e40a898a9ba7.herokuapp.com',
 ]
 
 
